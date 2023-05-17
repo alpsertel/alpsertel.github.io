@@ -20,12 +20,9 @@ Hi! I'm Alparslan, and I'm a Senior Industrial Engineering student at [METU](htt
   - [Certificate](https://www.udemy.com/certificate/UC-6340fa49-b921-468d-a1aa-90969be9f10d//)
 
 ## Courses In Progress
-- Accelerated Computer Science Fundamentals Specialization | University of Illinois at Urbana-Champaign
-  - [Link](https://www.coursera.org/specializations/cs-fundamentals)
-- Sports Performance Analytics Specialization | University of Michigan
-  - [Link](https://www.coursera.org/specializations/sports-analytics)
-- Deep Learning Specialization | DeepLearning.AI
-  - [Link](https://www.coursera.org/specializations/deep-learning)
+- [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) | University of Illinois at Urbana-Champaign
+- [Sports Performance Analytics Specialization](https://www.coursera.org/specializations/sports-analytics) | University of Michigan
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | DeepLearning.AI
 
 ## Awards
 - [VakaVT 2022](https://odtuvt.org.tr/vaka-vt/) Second Place
