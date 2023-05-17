@@ -1,0 +1,1 @@
+Hi! I'm Alparslan, and I'm a Senior Industrial Engineering student at [METU](https://www.metu.edu.tr/). I enjoy working on data science and AI, and I'm eager to expand my knowledge in these areas. 
