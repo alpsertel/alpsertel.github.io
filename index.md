@@ -30,8 +30,9 @@ Hi! I'm Alparslan, and I'm a Senior Industrial Engineering student at [METU](htt
 
 ## Projects
 - [Marketing Decision Support System for Mobile Game Industry](projects/ukeba.md)
-- [Eksi Cluster - A tool for clustering polysemantic [Eksi Sozluk](eksisozluk.com) page entries](projects/eksicluster.md)
+- [Eksi Cluster - A tool for clustering polysemantic Eksi Sozluk page entries](projects/eksicluster.md)
 - [K-means Clustering application on U.S. Universities](projects/uni_kmeans.md)
+- [Implementation of the paper: Drop the GAN: In Defense of Patches Nearest Neighbors as Single Image Generative Models](projects/drop_the_gan.md)
 
 ## Personal Stuff
 - [what do I do?](personal/stuff.md)
